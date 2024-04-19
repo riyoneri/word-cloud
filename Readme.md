@@ -1,4 +1,4 @@
-# Exercise 2 - Word Cloud
+# Word Cloud
 
 The file [cloud.html](./cloud.html) contains a paragraph of text.
 
